@@ -7,7 +7,7 @@ Create a `.env` file in the root directory of the project and add the following 
 PORT=4000 # Or any preferred port
 ```
 ```
-MONGO_URI=mongodb://localhost:27017 'Or' your MongoDB cloud URI
+MONGO_URI=mongodb://localhost:27017 # Or your MongoDB cloud URI
 ```
 ```
 STRIPE_KEY=your-stripe-secret-key
