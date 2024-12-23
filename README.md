@@ -18,5 +18,3 @@ PRODUCT_PER_PAGE=20 # Or any preferred value
 
 Ensure all required fields are filled correctly.
 
-
-
