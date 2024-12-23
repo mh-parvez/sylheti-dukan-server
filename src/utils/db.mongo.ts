@@ -13,4 +13,3 @@ export const connectMongoDB = async (uri: string) => {
 		process.exit(1);
 	}
 };
-
