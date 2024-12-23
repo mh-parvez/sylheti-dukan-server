@@ -1,4 +1,4 @@
-# Sylheti Duakn Server
+# Sylheti Duakn 🛍️ (Server)
 
 ### Environment Variables
 Create a `.env` file in the root directory of the project and add the following variables with your respective details:
