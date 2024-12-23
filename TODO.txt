@@ -1,0 +1,19 @@
+
+✔ 1. Init Yarn & Install Typesctipt
+✔ 2. Init Typesctipt & Setup the Files: tsc --init
+✔ 3. In package.json: "type": "module"
+✔ 4. Install Dependencis
+✔ 5. Install types: yarn add -D @types/express @types/node typesctipt nodemon
+✔ 6. Create app
+✔ 7. Create script on: package.json
+✔ 8. Backend Basics & Folder Structure: routes, controllers, middlewares, models, types, utilis
+✔ 9. User schema & routes setup
+✔ 10. Install schema validator
+✔ 11. Create 'users' apis
+✔ 12. Error middleware
+✔ 13. For admin, create auth middleware
+✔ 14. Install multer and setup the file storage for uploading photo
+✔ 15. Create multer middleware
+✔ 16. Create 'product' api's
+
+✔ Continue ....
