@@ -25,7 +25,7 @@ const app = express();
 app.use(express.json());
 app.use(morgan("dev"));
 app.use(cors());
-app.use("/uploads", express.static("uploads"));
+// app.use("/uploads", express.static("uploads"));
 
 app.get("/", (_req, res) => { res.send(`API working with /api/v1`) });
 app.use("/api/v1/user", userRoute);
